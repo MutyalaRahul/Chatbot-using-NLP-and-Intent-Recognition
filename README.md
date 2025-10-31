@@ -52,5 +52,4 @@ Deploy with Flask/FastAPI
 Enable context for multi-turn conversations
 Use advanced language models (e.g., transformers)
 👨‍💻 Author
-Mutyala Rahul
-📧 rahulmutyala258@gmail.com# ChatBot
+Mutyala Rahul 📧 rahulmutyala258@gmail.com# ChatBot
